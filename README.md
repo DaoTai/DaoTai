@@ -1,7 +1,7 @@
 # Hi👋, I'm Dao Tai
 👨‍💻 A Web Developer. 
 <br/> ❤️‍🔥 I love learning programming, especially web programming. I am willing to gather new knowledge to serve work.
-<br/>🎓 I graduated ThuyLoi University with bachelor of engineering in Information Technology
+<br/>🎓 I graduated ThuyLoi University with bachelor of engineering in Information Technology.
 
 ## ✨ 💻 Tech stack ✨
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
