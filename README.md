@@ -44,7 +44,7 @@
 - 💻 EST Edu
   - Summary: Online learning programming languages. Features are CRUD, chat real-time (WebSocket), video call (WebRTC).
   - Public link: https://est-edu.vercel.app
-  - Video demo: https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD
+  - Video demo: https://youtu.be/KkbwgK8uYDw?si=U0HfaHqLbEVPxs1E
 - 🧾 My portfolio
   - Summary: My portfolio. It shows my resume.
   - Public link: https://dao-tai.vercel.app
