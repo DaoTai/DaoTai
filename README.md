@@ -1,7 +1,8 @@
 # Hi👋, I'm Dao Tai
 👨‍💻 A Web Developer. 
-<br/> ❤ I love learning programming, especially web programming. I am willing to gather new knowledge to serve work.
-<br/> 🔥 I have foundational skills in front-end & back-end development by NodeJS. My strongest technologies involve Javascript/Typescript like NextJS, NestJS and so on.
+⚙️ I specialize in TypeScript-based frameworks such as Next.js and NestJS, with hands-on experience in both SQL and NoSQL databases. I'm also actively involved in building Web3 and blockchain applications on platforms like TON, Solana, and EVM-compatible chains.
+💡 I work well both independently and in collaborative team environments, and I’m confident in self-learning and quickly adapting to new technologies.
+🚀 I’m passionate about creating scalable, secure, and high-performance web solutions that bridge modern web and decentralized technologies.
 
 ## ✨ 💻 Tech stack ✨
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
