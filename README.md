@@ -1,5 +1,5 @@
-# Hi👋, I'm Dao Tai
-👨‍💻 A Web Developer. 
+# Hi everyone👋, I'm Dao Tai👀.
+👨‍💻 Web Developer with a strong focus on modern web technologies in the Node.js ecosystem. 
 <br /> ⚙️ I specialize in TypeScript-based frameworks such as Next.js and NestJS, with hands-on experience in both SQL and NoSQL databases. I'm also actively involved in building Web3 and blockchain applications on platforms like TON, Solana, and EVM-compatible chains.
 <br /> 💡 I work well both independently and in collaborative team environments, and I’m confident in self-learning and quickly adapting to new technologies.
 <br /> 🚀 I’m passionate about creating scalable, secure, and high-performance web solutions that bridge modern web and decentralized technologies.
