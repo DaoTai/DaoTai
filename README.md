@@ -1,6 +1,6 @@
 # Hi👋, I'm Dao Tai
 👨‍💻 A Web Developer. 
-<br/> ❤️‍🔥 I love learning programming, especially web programming. I am willing to gather new knowledge to serve work.
+<br/> ❤ I love learning programming, especially web programming. I am willing to gather new knowledge to serve work.
 <br/>🎓 I graduated ThuyLoi University with bachelor of engineering in Information Technology.
 
 ## ✨ 💻 Tech stack ✨
